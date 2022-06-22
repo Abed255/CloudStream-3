@@ -8,7 +8,7 @@ import org.jsoup.nodes.Element
 
 class EgyBestProvider : MainAPI() {
     override var lang = "ar"
-    override var mainUrl = "https://www.egy.best"
+    override var mainUrl = "https://wilo.egybest.ooo"
     override var name = "EgyBest"
     override val usesWebView = false
     override val hasMainPage = true
